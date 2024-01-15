@@ -1,4 +1,4 @@
-# Portfolio QA Engineer/Тестировщик ПО
+# Портфолио QA Engineer/Тестировщик ПО
 #### В портфолио собраны тестовые задания, выполненные во время обучения.
 #### Проектирование тестов
 - [Задание 1](https://docs.google.com/spreadsheets/d/1Kb5l5Jgm6YZq7fDwKAlN6clIwGep508LTWVZDsX4vM0/edit#gid=0)
